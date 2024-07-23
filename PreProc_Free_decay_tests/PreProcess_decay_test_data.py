@@ -4,7 +4,7 @@ Date@ 27/12/2023 \\\modified
 Location@  Tokyo, Japan
 Python_version tested@ 3.11.6 & 3.12.0
 OracaFLex_version tested@11.4a
-For bug report: reach out to me at thant.htun@owcltd.com
+For bug reports: reach out to me at tzhtun@naoe.eng.osaka-u.ac.jp
 \\\
 ///
                          Module to shift time series data and group by
